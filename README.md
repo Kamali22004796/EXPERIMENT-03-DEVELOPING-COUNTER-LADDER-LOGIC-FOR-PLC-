@@ -72,7 +72,8 @@ Up/Down Counter (CTUD): The output should activate when the count reaches the pr
 
 ![image](https://github.com/user-attachments/assets/4a705388-30e0-419c-83fc-8bc648392b1b)
 
-![image](https://github.com/user-attachments/assets/ede0de1d-38ca-4df7-8015-a7e94bf0609a)
+![image](https://github.com/user-attachments/assets/c48b44ea-c6a4-4ee2-998f-c317e12b66ba)
+
 
 ![image](https://github.com/user-attachments/assets/565abdf9-3658-4655-a321-8f920e242ae6)
 
